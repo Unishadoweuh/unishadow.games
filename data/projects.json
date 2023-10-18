@@ -5,11 +5,11 @@
             "role": "Gérant",
             "type": "Garry's Mod",
             "links": [
-                "https://asset.party/eagleone/wise_guys"
+                "https://prisel.fr"
             ],
             "madeIn": "Lua / Gmod",
             "image": "/img/projects/Wise Guys.png",
-            "description": "A game made for the Three Thieves game jam, winning 1st place.",
+            "description": "Serveurs rôleplay dans le mode DarkRP.",
             "iconStyle": "cover",
             "tags": [
                 "1st-place",
