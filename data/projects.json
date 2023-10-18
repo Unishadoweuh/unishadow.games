@@ -1,13 +1,13 @@
 {
     "items": [
         {
-            "title": "Wise Guys",
-            "role": "Programmer",
-            "type": "s&box Game",
+            "title": "Prisel.fr",
+            "role": "Gérant",
+            "type": "Garry's Mod",
             "links": [
                 "https://asset.party/eagleone/wise_guys"
             ],
-            "madeIn": "C# / s&box",
+            "madeIn": "Lua / Gmod",
             "image": "/img/projects/Wise Guys.png",
             "description": "A game made for the Three Thieves game jam, winning 1st place.",
             "iconStyle": "cover",
