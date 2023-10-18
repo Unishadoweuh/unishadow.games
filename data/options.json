@@ -1,8 +1,8 @@
 {
     "name": "Unishadow",
-    "intro": "Hey! 👋 I'm Pierre.\nI'm a programmer at Facepunch. 👨‍💻\nI like reverse engineering, computer graphics, and game development. 🎮",
+    "intro": "Hey! 👋 Moi c'est Pierre.\nJe suis administrateur réseau. 👨‍💻\nJ'aime le développement de jeux-vidéos, les nouvelles technologies et le mapping. 🎮",
     "copyright": "© Unishadow 2023",
-    "email": "mailto:alex@gu3.me",
+    "email": "mailto:unishadow@etik.com",
     "avatar": "/img/me.png",
     "sections": {
         "projects": true,
@@ -11,8 +11,8 @@
     },
     "socials": [
         {
-            "link": "https://github.com/xezno",
-            "alt": "@xezno on GitHub",
+            "link": "https://github.com/Unishadoweuh",
+            "alt": "@Unishadoweuh on GitHub",
             "icon": "fab fa-github",
             "class": "text-github"
         },

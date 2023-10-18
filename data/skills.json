@@ -1,17 +1,10 @@
 {
     "list": [
-        "Unity",
-        "Unreal",
-        "C#",
-        "C++",
-        "TypeScript",
-        "JavaScript",
-        "SCSS",
-        "Vue",
-        "Docker",
-        "PostgreSQL",
+        "Administration réseau",
+        "Lua",
         "Python",
-        "Rust"
+        "Cybersécurité",
+        "Mapping Source Engine"
     ],
     "grid": [
         {
