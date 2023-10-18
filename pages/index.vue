@@ -11,7 +11,7 @@
         <x-flex-section>
             <section class="content">
                 <div v-if="options.sections.projects">
-                    <h1>Projects</h1>
+                    <h1>Projets</h1>
 
                     <article class="projects-wrapper">
                         <SectionProjects></SectionProjects>
@@ -21,7 +21,7 @@
                 <!-------------------------------------------------------------------------------------------->
 
                 <div v-if="options.sections.experience">
-                    <h1>Experience</h1>
+                    <h1>Expériences</h1>
 
                     <article class="career-wrapper">
                         <SectionExperience></SectionExperience>
@@ -31,7 +31,7 @@
                 <!-------------------------------------------------------------------------------------------->
 
                 <div v-if="options.sections.skills">
-                    <h1>Skills</h1>
+                    <h1>Compétences</h1>
 
                     <article class="skills-wrapper">
                         <SectionSkills></SectionSkills>
