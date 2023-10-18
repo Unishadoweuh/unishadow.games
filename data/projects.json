@@ -104,21 +104,20 @@
             ]
         },
         {
-            "title": "Frost Fight",
-            "role": "Programmer: UI",
+            "title": "Cosmos Community",
+            "role": "Co-Fondateur",
             "type": "s&box Game",
             "links": [
-                "https://github.com/apetavern/sbox-frostfight"
+                ""
             ],
-            "madeIn": "C# / s&box",
+            "madeIn": "Lua / Gmod",
             "image": "/img/projects/Frost Fight.png",
-            "description": "A game made for the Jambox Winter Jam 2021, awarded 2nd place.",
+            "description": "6 serveurs rôleplay rassemblant près de 500 joueurs chaque jour.",
             "iconStyle": "cover",
             "tags": [
-                "2nd-place",
                 "ape-tavern"
             ],
-            "year": "2021"
+            "year": "2019-2021"
         }
     ]
 }
