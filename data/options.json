@@ -17,20 +17,20 @@
             "class": "text-github"
         },
         {
-            "link": "https://blog.gu3.me/",
+            "link": "https://discord.gg/prisel",
             "alt": "Mon discord",
             "icon": "fas fa-discord",
             "class": "text-blog"
         },
         {
-            "link": "https://twitter.com/RealXezno",
-            "alt": "@RealXezno on Twitter",
+            "link": "https://twitter.com/Unishadoweuh",
+            "alt": "@Unishadoweuh sur X",
             "icon": "fab fa-twitter",
             "class": "text-twitter"
         },
         {
-            "link": "mailto:alex@gu3.me",
-            "alt": "Email me",
+            "link": "mailto:unishadow@etik.com",
+            "alt": "Adresse e-mail",
             "icon": "fas fa-envelope",
             "class": "text-email"
         }
