@@ -5,18 +5,32 @@
             "role": "Gérant",
             "type": "Garry's Mod",
             "links": [
-                "https://prisel.fr",
-                "https://discord.gg/prisel"
+                "https://prisel.fr"
             ],
             "madeIn": "Lua / Gmod",
-            "image": "/img/projects/.png",
+            "image": "/img/projects/prisel.png",
             "description": "Serveurs rôleplay dans le mode DarkRP.",
             "iconStyle": "cover",
             "tags": [
-                "1st-place",
-                "eagle-one"
+                "1st-place"
             ],
             "year": "2023"
+        },
+        {
+            "title": "Redstart",
+            "role": "Développeur",
+            "type": "GTAV | FIVEM",
+            "links": [
+                "https://redstartrp.fr"
+            ],
+            "madeIn": "Lua / C++",
+            "image": "/img/projects/redstart.jpg",
+            "description": "Serveurs rôleplay sur le framework FiveM.",
+            "iconStyle": "cover",
+            "tags": [
+                "2nd-place"
+            ],
+            "year": "2022"
         },
         {
             "title": "Cosmos Community",
