@@ -16,7 +16,7 @@
                             <div class="shine"></div>
                         </span>
                     </span>
-                    <span data-tip="" v-if="project.tags?.includes('2nd-place')">
+                    <span data-tip="Bonne expérience" v-if="project.tags?.includes('2nd-place')">
                         <span class="award award-2nd">
                             <font-awesome-icon icon="medal"></font-awesome-icon>
                             <div class="shine"></div>
