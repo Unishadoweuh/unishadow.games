@@ -39,11 +39,10 @@
             "links": [
             ],
             "madeIn": "Lua / Gmod",
-            "image": "/img/projects/.png",
+            "image": "/img/projects/cosmos.png",
             "description": "6 serveurs rôleplay rassemblant près de 500 joueurs chaque jour.",
             "iconStyle": "cover",
             "tags": [
-                "ape-tavern"
             ],
             "year": "2019-2021"
         }
