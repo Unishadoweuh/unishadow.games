@@ -17,6 +17,35 @@
             "year": "Depuis 2023"
         },
         {
+            "title": "Valya",
+            "role": "Directeur",
+            "type": "GTAV | FIVEM",
+            "links": [            ],
+            "madeIn": "",
+            "image": "/img/projects/valya.gif",
+            "description": "Serveur rôleplay sur le framework FiveM.",
+            "iconStyle": "cover",
+            "tags": [
+            ],
+            "year": "2023"
+        },
+        {
+            "title": "Redstart",
+            "role": "Développeur",
+            "type": "GTAV | FIVEM",
+            "links": [
+                "https://site.redstartrp.fr"
+            ],
+            "madeIn": "Lua / C++",
+            "image": "/img/projects/redstart.jpg",
+            "description": "Serveurs rôleplay sur le framework FiveM.",
+            "iconStyle": "cover",
+            "tags": [
+                "2nd-place"
+            ],
+            "year": "2022"
+        },
+        {
             "title": "Redstart Hosting",
             "role": "Directeur technique",
             "type": "Hébergement",
@@ -30,22 +59,6 @@
             "tags": [
             ],
             "year": "Depuis 2022"
-        },
-        {
-            "title": "Redstart",
-            "role": "Développeur",
-            "type": "GTAV | FIVEM",
-            "links": [
-                "https://redstartrp.fr"
-            ],
-            "madeIn": "Lua / C++",
-            "image": "/img/projects/redstart.jpg",
-            "description": "Serveurs rôleplay sur le framework FiveM.",
-            "iconStyle": "cover",
-            "tags": [
-                "2nd-place"
-            ],
-            "year": "2022"
         },
         {
             "title": "Cosmos Community",
