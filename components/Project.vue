@@ -10,13 +10,13 @@
                     {{ project.title }}
 
                     <!-- Medals -->
-                    <span data-tip="1st Place Jam Winner" v-if="project.tags?.includes('1st-place')">
+                    <span data-tip="Coup de coeur" v-if="project.tags?.includes('1st-place')">
                         <span class="award award-1st">
                             <font-awesome-icon icon="trophy"></font-awesome-icon>
                             <div class="shine"></div>
                         </span>
                     </span>
-                    <span data-tip="2nd Place Jam Award" v-if="project.tags?.includes('2nd-place')">
+                    <span data-tip="Bonne expérience" v-if="project.tags?.includes('2nd-place')">
                         <span class="award award-2nd">
                             <font-awesome-icon icon="medal"></font-awesome-icon>
                             <div class="shine"></div>
