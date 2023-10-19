@@ -17,22 +17,16 @@
             "class": "text-github"
         },
         {
-            "link": "https://discord.gg/prisel",
-            "alt": "Mon discord",
-            "icon": "fab fa-blog",
-            "class": "text-blog"
+            "link": "mailto:unishadow@etik.com",
+            "alt": "Adresse e-mail",
+            "icon": "fas fa-envelope",
+            "class": "text-email"
         },
         {
             "link": "https://twitter.com/Unishadoweuh",
             "alt": "@Unishadoweuh sur X",
             "icon": "fab fa-twitter",
             "class": "text-twitter"
-        },
-        {
-            "link": "mailto:unishadow@etik.com",
-            "alt": "Adresse e-mail",
-            "icon": "fas fa-envelope",
-            "class": "text-email"
         }
     ]
 }
