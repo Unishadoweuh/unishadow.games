@@ -5,11 +5,11 @@
         <a href="#" class="view-more" v-on:click="toggleViewMore">
             <BaseGlassPanel :shine="false">
                 <p v-if="!viewMore">
-                    View more
+                    Voir plus
                     <font-awesome-icon icon="chevron-down" />
                 </p>
                 <p v-if="viewMore">
-                    View less
+                    Voir moins
                     <font-awesome-icon icon="chevron-up" />
                 </p>
             </BaseGlassPanel>
