@@ -5,10 +5,11 @@
             "role": "Gérant",
             "type": "Garry's Mod",
             "links": [
-                "https://prisel.fr"
+                "https://prisel.fr",
+                "https://discord.gg/prisel"
             ],
             "madeIn": "Lua / Gmod",
-            "image": "/img/projects/Wise Guys.png",
+            "image": "/img/projects/.png",
             "description": "Serveurs rôleplay dans le mode DarkRP.",
             "iconStyle": "cover",
             "tags": [
@@ -25,7 +26,7 @@
                 ""
             ],
             "madeIn": "Lua / Gmod",
-            "image": "/img/projects/Frost Fight.png",
+            "image": "/img/projects/.png",
             "description": "6 serveurs rôleplay rassemblant près de 500 joueurs chaque jour.",
             "iconStyle": "cover",
             "tags": [
