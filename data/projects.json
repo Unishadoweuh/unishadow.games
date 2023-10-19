@@ -17,6 +17,21 @@
             "year": "2023"
         },
         {
+            "title": "Redstart Hosting",
+            "role": "Directeur technique",
+            "type": "Hébergement",
+            "links": [
+                "https://redstarthosting.com"
+            ],
+            "madeIn": "",
+            "image": "/img/projects/redstarthosting.png",
+            "description": "Hébergement de serveurs & services cloud.",
+            "iconStyle": "cover",
+            "tags": [
+            ],
+            "year": "2022 - Aujourd'hui"
+        },
+        {
             "title": "Redstart",
             "role": "Développeur",
             "type": "GTAV | FIVEM",
