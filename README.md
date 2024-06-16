@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17a8cef7-0bc1-48e9-bf6f-8d4c5aa2ce65/deploy-status)](https://app.netlify.com/sites/unishadowgames/deploys)
+
+
 # gu3.me
 
 This repository contains the code for [my personal website](https://alex.gu3.me/), hosted on [Netlify](https://www.netlify.com/), and written in [JavaScript](https://www.javascript.com/) using the [Nuxt.js](https://nuxtjs.org/) framework.
