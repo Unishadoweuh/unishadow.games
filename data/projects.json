@@ -7,7 +7,7 @@
             "links": [
                 "https://black-dream.fr"
             ],
-            "madeIn": "Lua / Web",
+            "madeIn": "Lua / C++",
             "image": "/img/projects/prisel.png",
             "description": "Serveur moddée sur le framework FiveM.",
             "iconStyle": "cover",
@@ -53,7 +53,7 @@
             ],
             "madeIn": "Lua / C++",
             "image": "/img/projects/redstart.jpg",
-            "description": "Serveur rôleplay sur le framework FiveM.",
+            "description": "Serveur moddée sur le framework FiveM.",
             "iconStyle": "cover",
             "tags": [
                 "2nd-place"

@@ -74,7 +74,7 @@ export default {
 
             return {
                 icon: ['fas', 'link'],
-                text: 'Open Link',
+                text: 'Ouvrir le lien',
             }
         }
     },
