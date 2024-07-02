@@ -18,14 +18,14 @@ export default defineNuxtConfig({
                 { hid: 'og:site_name', property: 'og:site_name', content: 'Unishadow' },
                 { hid: 'og:locale', property: 'og:locale', content: 'en_GB' },
                 { hid: 'og:type', property: 'og:type', content: 'website' },
-                { hid: 'og:url', property: 'og:url', content: 'http://gu3.me/' },
-                { hid: 'og:image', property: 'og:image', content: 'http://gu3.me/img/robot.png' },
+                { hid: 'og:url', property: 'og:url', content: 'https://unishadow.me/' },
+                { hid: 'og:image', property: 'og:image', content: 'https://unishadow.me/img/robot.png' },
                 { hid: "twitter:card", name: "twitter:card", content: "summary" },
                 { hid: "twitter:domain", property: "twitter:domain", content: "" },
-                { hid: "twitter:url", property: "twitter:url", content: "http://gu3.me/" },
+                { hid: "twitter:url", property: "twitter:url", content: "https://unishadow.me/" },
                 { hid: "twitter:title", name: "twitter:title", content: "Unishadow" },
                 { hid: "twitter:description", name: "twitter:description", content: "Computer Science student and software developer from the United Kingdom." },
-                { hid: "twitter:image", name: "twitter:image", content: "http://gu3.me/img/robot.png" }
+                { hid: "twitter:image", name: "twitter:image", content: "https://unishadow.me/img/robot.png" }
             ],
             link: [
                 { rel: 'shortcut icon', type: 'image/png', href: '/img/robot.png' },
