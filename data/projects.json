@@ -1,6 +1,22 @@
 {
     "items": [
         {
+            "title": "Black Dream",
+            "role": "Gérant",
+            "type": "FiveM",
+            "links": [
+                "https://black-dream.fr"
+            ],
+            "madeIn": "Lua / Web",
+            "image": "/img/projects/prisel.png",
+            "description": "Serveur moddée sur le framework FiveM.",
+            "iconStyle": "cover",
+            "tags": [
+                "1st-place"
+            ],
+            "year": "Depuis 2023"
+        },
+        {
             "title": "Prisel.fr",
             "role": "Gérant",
             "type": "Garry's Mod",
@@ -12,7 +28,6 @@
             "description": "Serveur rôleplay dans le mode DarkRP.",
             "iconStyle": "cover",
             "tags": [
-                "1st-place"
             ],
             "year": "Depuis 2023"
         },
